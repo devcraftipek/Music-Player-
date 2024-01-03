@@ -22,3 +22,6 @@ JavaScript: Müzik çaların temel işlevselliği, kullanıcı etkileşimleri ve
 Font Awesome: Uygulama içindeki ikonlar için Font Awesome kütüphanesi kullanılmıştır.
 
 **Uygulama hakkında geri bildirimlerinizi bekliyorum. Keyifli dinlemeler! 🎶**
+
+![sc](https://github.com/ladyvahsi/Music-Player-/assets/90203389/6e1591c9-3278-49a2-9d53-5cabe6b79941)
+
